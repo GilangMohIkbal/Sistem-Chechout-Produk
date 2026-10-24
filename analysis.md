@@ -77,5 +77,3 @@ Pola tersebut dapat digunakan kembali untuk transaksi dengan input yang berbeda.
 ## 8. Abstraction
 
 Program hanya menggunakan data yang diperlukan untuk perhitungan, yaitu harga, jumlah produk, dan status member.
-
-Informasi seperti nama produk, warna barang, foto produk, dan identitas pembeli tidak diperlukan dalam studi kasus ini sehingga tidak dimasukkan ke dalam perhitungan.

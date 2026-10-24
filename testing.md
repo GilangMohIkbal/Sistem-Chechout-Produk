@@ -60,5 +60,3 @@ Test 9: 249000
 ## 6. Kesimpulan
 
 seluruh **9 dari 9 skenario** menghasilkan output yang sesuai dengan expected result. Pengujian mencakup kondisi member, non-member, batas gratis ongkir, dan input tidak valid.
-
-Hasil ini berlaku untuk **kode referensi yang diuji**. Jika kode `checkout.js` yang dikumpulkan berbeda, pengujian perlu dijalankan kembali pada kode tersebut sebelum menyimpulkan seluruh tes lulus.
